@@ -12,9 +12,9 @@ Para iniciar todo o trabalho execute o ficheiro "login.py" pela linha de comando
 ### Uso Final
 
 
-*Executar na consola:
+*Executar na consola:*
 
-***python login.py
+***python login.py***
 
 
 
