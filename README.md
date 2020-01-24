@@ -5,9 +5,9 @@ Para iniciar todo o trabalho execute o ficheiro "login.py" pela linha de comando
 
 -Ficheiros de cada parte:
 
--1º Parte: db, main, view, music, album, artist, genres
+-1º Parte: db, main, view, music, album, artist, genres.
 
--2º Parte: db, login, admin
+-2º Parte: db, login, admin.
 
 *Feito por:*
                 
