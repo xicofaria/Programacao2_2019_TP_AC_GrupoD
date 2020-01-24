@@ -9,6 +9,15 @@ Para iniciar todo o trabalho execute o ficheiro "login.py" pela linha de comando
 
 -2º Parte: db, login, admin
 
+### Uso Final
+
+
+*Executar na consola:
+
+***python login.py
+
+
+
 *Feito por:*
                 
 *Francisco Faria e
